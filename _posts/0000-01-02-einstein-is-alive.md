@@ -1,6 +1,4 @@
----
-layout: slide
-title: "Welcome to our second slide!"
----
-Your text
-Use the left arrow to go back!
+I am learning to use github
+This tutorial is great
+I am super excited.
+Thank you!
